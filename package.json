@@ -2,7 +2,7 @@
   "name": "discord-bot",
   "version": "1.0.0",
   "description": "My Discord Bot playground",
-  "main": "index.js",
+  "main": "utils/index.js",
   "scripts": {
     "test": "testCommand"
   },
