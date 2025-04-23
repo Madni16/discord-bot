@@ -26,4 +26,4 @@ build/
 Thumbs.db
 
 # Secrets
-secrets.txt
+config.json
